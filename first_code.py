@@ -6,3 +6,5 @@ print(c)
 print("Hello how do you do?")
 d=c+3
 print(d)
+abc=d-2
+print(abc)
