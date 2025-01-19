@@ -5,6 +5,7 @@ import os
 
 # Define global variables
 expenses = []
+random_var=[]
 budget = 0
 
 # Function to load data from file
